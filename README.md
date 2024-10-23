@@ -20,6 +20,7 @@ WebGL compatible browser (e.g. Chrome, Firefox, Safari)
 
 # Link to WebGL build
 
+https://w-panther007.github.io/WebGLGame/
 
 # Installation
 
@@ -34,6 +35,12 @@ Open Unity Hub
 Click on "Add"
 
 Select the cloned project folder
+
+Once opened, access the 'scenes' folder and load up (double click) 'new map' within that folder
+
+Path: Assets/scenes/new map.unity
+
+
 
 # How to play:
 
